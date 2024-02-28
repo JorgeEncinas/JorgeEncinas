@@ -1,10 +1,6 @@
 ### I am neural to network with you!
 Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking forward to getting some practice!
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=jorgeencinas&label=Profile%20views&color=0e75b6&style=flat"
-        alt="jorgeencinas" /> </p>
-
 ### Ongoing Personal Projects!
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1!
 - looking for Neural Network projects to do
@@ -87,6 +83,12 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
         alt="typescript" width="40" height="40" /> </a>
 </p>
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=jorgeencinas&label=Profile%20views&color=0e75b6&style=flat"
+        alt="jorgeencinas" /> </p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=jorgeencinas" alt="jorgeencinas" /></a> </p>
+
 
