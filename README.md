@@ -8,13 +8,6 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=jorgeencinas" alt="jorgeencinas" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/jorgeencinasalegre" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="jorgeencinasalegre" height="30" width="40" /></a>
-</p>
-
 ### Ongoing Personal Projects!
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1!
 - looking for Neural Network projects to do
