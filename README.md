@@ -24,6 +24,14 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
 - Developer @ Didcom, member of the R&D Department.
 - Very occasional freelance work
 
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeencinas&show_icons=true&locale=en&layout=compact"
+    alt="jorgeencinas" /></p>
+
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=jorgeencinas&show_icons=true&locale=en"
+    alt="jorgeencinas" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -81,11 +89,3 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" /> </a>
 </p>
-
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeencinas&show_icons=true&locale=en&layout=compact"
-    alt="jorgeencinas" /></p>
-
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=jorgeencinas&show_icons=true&locale=en"
-    alt="jorgeencinas" /></p>
