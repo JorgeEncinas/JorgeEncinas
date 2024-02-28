@@ -1,8 +1,8 @@
 ### I am neural to network with you!
 Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking forward to getting some practice!
 
-### Ongoing Personal Projects!
-- [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1!
+### Ongoing Personal Projects
+- [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1
 - looking for Neural Network projects to do
 - [FullStackOpen](https://github.com/JorgeEncinas/full_stack_open_2023): Currently working through part 5.
 
