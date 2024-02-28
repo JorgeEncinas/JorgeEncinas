@@ -5,9 +5,6 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
         src="https://komarev.com/ghpvc/?username=jorgeencinas&label=Profile%20views&color=0e75b6&style=flat"
         alt="jorgeencinas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=jorgeencinas" alt="jorgeencinas" /></a> </p>
-
 ### Ongoing Personal Projects!
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1!
 - looking for Neural Network projects to do
@@ -89,3 +86,7 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" /> </a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=jorgeencinas" alt="jorgeencinas" /></a> </p>
+
