@@ -5,6 +5,7 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1
 - looking for Neural Network projects to do
 - [FullStackOpen](https://github.com/JorgeEncinas/full_stack_open_2023): Currently working through part 5.
+- Going through [Leetcode](https://leetcode.com/jorgecarlosencinas/)'s Data Structures and Algorithms course to build solid fundamentals.
 
 ### Burning Interests
 <div display="flex">
