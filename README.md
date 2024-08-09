@@ -2,13 +2,24 @@
 Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking forward to getting some practice!
 
 ### Ongoing Personal Projects
+- Going through [Leetcode](https://leetcode.com/jorgecarlosencinas/)'s Data Structures and Algorithms course to build solid fundamentals. Currently at about 150 problems, I've covered:
+  - Arrays and strings: Two pointers, Sliding Window, Prefix Sum
+  - Hashing
+  - Linked lists: Fast and slow pointers, reversing a linked list.
+  - Stacks and Queues (and a bit of Monotonic too!)
+  - Binary Trees, Graphs, DFS, BFS
+  - Heaps
+  - Greedy (could use some more exercises on this one)
+  - Currently at Binary Search problems!
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1
-- looking for Neural Network projects to do
+- Reading [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
 - [FullStackOpen](https://github.com/JorgeEncinas/full_stack_open_2023): Currently working through part 5.
-- Going through [Leetcode](https://leetcode.com/jorgecarlosencinas/)'s Data Structures and Algorithms course to build solid fundamentals.
+- 
+
 
 ### Burning Interests
 <div display="flex">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-%230428c7?style=flat-square">
   <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-%234113ad?style=flat-square">
   <img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-%23a14fe3?style=flat-square">
@@ -16,6 +27,7 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
 
 ### What I do for a living
 - Developer @ Didcom, member of the R&D Department.
+  - Fullstack real-time web system developer, Testing, Database Design, Server setup.
 - Very occasional freelance work
 
 <p><img align="left"
