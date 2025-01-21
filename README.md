@@ -14,21 +14,6 @@ Recently finished DeepLearning.AI's "Deep Learning Specialization", I'm looking 
 - [fast.ai course](https://github.com/JorgeEncinas/fast.ai_book): Just finished chapter 1
 - Reading [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
 - [FullStackOpen](https://github.com/JorgeEncinas/full_stack_open_2023): Currently working through part 5.
-- 
-
-
-### Burning Interests
-<div display="flex">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-%230428c7?style=flat-square">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-%234113ad?style=flat-square">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-%23a14fe3?style=flat-square">
-</div>
-
-### What I do for a living
-- Developer @ Didcom, member of the R&D Department.
-  - Fullstack real-time web system developer, Testing, Database Design, Server setup.
-- Very occasional freelance work
 
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeencinas&show_icons=true&locale=en&layout=compact"
